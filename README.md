@@ -89,11 +89,8 @@ Please check some of my most popular blog posts.
 ## ⚡ Fun fact...
 I'm an _Arctic Code Vault Contributor_ (whatever that might even mean 😁)
 
-## ⚡ And finally...
-Reach out to me on [Twitter](https://twitter.com/brunohilden) or [LinkedIn](https://www.linkedin.com/in/brunohildenbrand/) 😊
-
-<script async='async' src='https://platform-api.sharethis.com/js/sharethis.js#property=5f5af0200658220012f2d83c&product=sop' type='text/javascript'></script>
-<div class="sharethis-inline-follow-buttons m2"></div>
+## 📫 And finally...
+Reach out to me on [Twitter](https://twitter.com/brunohilden) and/or [LinkedIn](https://www.linkedin.com/in/brunohildenbrand/) 😊
 
 <!--
 **hd9/hd9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
