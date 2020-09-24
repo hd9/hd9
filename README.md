@@ -14,10 +14,10 @@ Oh! And sometimes I also do some front-end development using [VueJS](https://vue
 
 ### ⚡ My main interests are...
 Open source software in general, including (but not limited to) Linux, VIM, Bash, Fedora, Go, Azure, Docker,    
-Kubernetes, PostgreSQL, MongoDB, Redis, software development, software architecture, cloud, databases, etc...
+Kubernetes, GraphQL, PostgreSQL, MongoDB, Redis, software development, software architecture, cloud, databases, etc...
 
 ### 🔭 I’m currently working on...
-Outside of my day job, I usually build cloud apps using Go, Docker, Kubernetes and PostgreSQL/sqlite    
+Outside of my day job, I usually build cloud apps using Go, GraphQL, Docker, Kubernetes and PostgreSQL/sqlite    
 just for fun(c) 😉 and post them here and [on my blog](https://blog.hildenco.com).
 
 ### 🌱 I’m exploring...
@@ -30,14 +30,14 @@ I'm currently exploring:
 * and lots of other random stuff..
 
 # Open Source
-I love open source software! That passion started 20 yrs ago when I tried   
-[Slackware Linux](http://www.slackware.com/). Today I'm a long-time [Fedora](https://blog.hildenco.com/2018/11/thank-you-fedora.html),
+I love open source software! That passion started 20 yrs ago when I tried [Slackware Linux](http://www.slackware.com/).   
+Today I'm a long-time [Fedora](https://blog.hildenco.com/2018/11/thank-you-fedora.html),
 Vim and [i3](https://blog.hildenco.com/2019/08/how-i-fell-in-love-with-i3.html) user.
 
 ### Open-source projects
 * [HildenCo | Blog](https://blog.hildenco.com): Blog about development, cloud and open-source software
-* [Linux4Us](https://www.linux4us.com): News, tutorials and tips about Linux
-* [Vim4Us](https://www.vim4us.com): News, tutorials and tips about Linux
+* [Linux4Us](https://www.linux4us.com): News, tutorials and tips about Linux (under development)
+* [Vim4Us](https://www.vim4us.com): Tips in tricks to learn and master Vim (under development)
 
 And more to come 😊
 
@@ -57,12 +57,12 @@ Some of my most popular open-source tools were created to explain tech stuff [in
 * [aspnet-async-communication](https://github.com/hd9/aspnet-async-communication): Async resquest/response exchange between two ASP.NET Core websites via RabbitMQ queues using MassTransit, Docker, Docker Compose and VueJS 
 * [masstransit-rabbitmq](https://github.com/hd9/masstransit-rabbitmq): Modern MassTransit, RabbitMQ, .NET Core 3.1 implementation 
 
-### Random hacks
+### Open-source hacks
 There are some cool hacks in these repos:
 * [powershell](https://github.com/hd9/powershell): Powershell Scriplets 
 * [code](https://github.com/hd9/code): Random code 
 
-## Popular blog posts 💬 
+## 💬 Popular blog posts
 Please check some of my most popular blog posts.
 
 **.NET/Azure**:
@@ -80,14 +80,14 @@ Please check some of my most popular blog posts.
 
 **Linux and open-source**:
 * [How I fell in love with i3](https://blog.hildenco.com/2019/08/how-i-fell-in-love-with-i3.html)
-* [Why I use Fedora](https://blog.hildenco.com/2018/11/thank-you-fedora.html)[MassTransit, a real alternative to NServiceBus?]()
+* [Why I use Fedora](https://blog.hildenco.com/2018/11/thank-you-fedora.html)
 * [How to create a Ubuntu Desktop on Azure](https://blog.hildenco.com/2019/07/creating-ubuntu-desktop-instance-on.html)
 * [Why use CentOS ](https://blog.hildenco.com/2020/06/why-use-centos.html)
 * [20 tips to manage Linux VMs on Azure](https://blog.hildenco.com/2020/07/20-tips-to-manage-linux-vms-on-azure.html)
 
 
 ## ⚡ Fun fact...
-I'm an _Arctic Code Vault Contributor_ (whatever that might even mean 😁)
+I'm an _Arctic Code Vault Contributor_ (whatever that might even mean 😁) and semi-retired bass-player.
 
 ## 📫 And finally...
 Reach out to me on [Twitter](https://twitter.com/brunohilden) and/or [LinkedIn](https://www.linkedin.com/in/brunohildenbrand/) 😊
