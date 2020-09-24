@@ -2,27 +2,23 @@
 _Sr Software Engineer, tech lead, solutions architect, and open source enthusiast._
 
 ### Hi there! Thanks for visiting this page 👋
-I'm a long-time software engineer living in Canada. I love sharing   
-tips about development, cloud, best practices, security, design   
-patterns and software architecture using primarily .NET and Go.
+I'm a long-time software engineer living in Canada. I love sharing tips about development, cloud,   
+best practices, security, design patterns and software architecture using primarily .NET and Go.
 
 Check my blog at: [blog.hildenco.com](https://blog.hildenco.com)
 
 ## About Me
 ### 🔭 I currently work...
-Developing cloud apps using .NET/.NET Core, Go, Azure, Docker,   
-Kubernetes and lots of different databases. Oh! And sometimes   
-I also do some front-end development using [VueJS](https://vuejs.org) and [ReactJS](https://reactjs.org).
+Developing cloud apps using .NET/.NET Core, Go, Azure, Docker, Kubernetes and lots of different databases.   
+Oh! And sometimes I also do some front-end development using [VueJS](https://vuejs.org) and [ReactJS](https://reactjs.org).
 
 ### ⚡ My main interests are...
-Open source software in general, including (but not limited to)   
-Linux, VIM, Bash, Fedora, Go, Docker, Kubernetes, PostgreSQL, Azure    
-software development, software architecture, cloud, databases, etc...
+Open source software in general, including (but not limited to) Linux, VIM, Bash, Fedora, Go, Azure, Docker,    
+Kubernetes, PostgreSQL, MongoDB, Redis, software development, software architecture, cloud, databases, etc...
 
 ### 🔭 I’m currently working on...
-Outside of my day job, I usually build cloud apps using Go, Docker,    
-Kubernetes and PostgreSQL/sqlite just for fun(c) and post them here   
-and [on my blog](https://blog.hildenco.com).
+Outside of my day job, I usually build cloud apps using Go, Docker, Kubernetes and PostgreSQL/sqlite    
+just for fun(c) 😉 and post them here and [on my blog](https://blog.hildenco.com).
 
 ### 🌱 I’m exploring...
 I'm currently exploring:
@@ -48,9 +44,8 @@ And more to come 😊
 ### Open-source tools
 * [gotrans](https://github.com/hd9/gotrans): A multiplatform tool written in Go to translate text in the terminal using Azure Azure Translation Services
 
-### Tutorials
-Some of my most popular open-source tools were created to explain tech stuff [in my blog](https://blog.hildenco.com).   
-They are:
+### Open-source projects
+Some of my most popular open-source tools were created to explain tech stuff [in my blog](https://blog.hildenco.com). They are:
 * [aspnet-microservices](https://github.com/hd9/aspnet-microservices): a sample microservice architecture using .NET Core, Docker, Azure and Kubernetes.
 * [aspnet-distributed-caching](https://github.com/hd9/aspnet-distributed-caching): sample repo to demo an ASP.NET Core 3.1 website distributed caching with Docker, MongoDB, Redis using Docker Compose.
 * [aspnet-docker](https://github.com/hd9/aspnet-docker): simple/sample demo of ASP.NET Core and Docker using .NET Core 3.1 LTS
@@ -67,7 +62,7 @@ There are some cool hacks in these repos:
 * [powershell](https://github.com/hd9/powershell): Powershell Scriplets 
 * [code](https://github.com/hd9/code): Random code 
 
-### Popular blog posts
+## Popular blog posts 💬 
 Please check some of my most popular blog posts.
 
 **.NET/Azure**:
@@ -95,8 +90,10 @@ Please check some of my most popular blog posts.
 I'm an _Arctic Code Vault Contributor_ (whatever that might even mean 😁)
 
 ## ⚡ And finally...
-Fon't forget check my blog at: [blog.hildenco.com](https://blog.hildenco.com) and 
-reach out to me in on Twitter [@BrunoHilden](https://twitter.com/brunohilden) 😊
+Reach out to me on [Twitter](https://twitter.com/brunohilden) or [LinkedIn](https://www.linkedin.com/in/brunohildenbrand/) 😊
+
+<script async='async' src='https://platform-api.sharethis.com/js/sharethis.js#property=5f5af0200658220012f2d83c&product=sop' type='text/javascript'></script>
+<div class="sharethis-inline-follow-buttons m2"></div>
 
 <!--
 **hd9/hd9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
