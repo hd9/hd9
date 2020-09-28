@@ -1,9 +1,9 @@
 # Bruno Hildenbrand
 _Sr Software Engineer, tech lead, solutions architect, and open source enthusiast._
 
-### Hi there! Thanks for visiting this page 👋
-I'm a long-time software engineer living in Canada. I love sharing tips about development, cloud,   
-best practices, security, design patterns and software architecture using primarily .NET and Go.
+## 👋 Hi there! Thanks for visiting this page 
+I'm a long-time software engineer living in Canada and love sharing tips about development, cloud,   
+best practices, security, design patterns and software architecture primarily in .NET and Go.
 
 Check my blog at: [blog.hildenco.com](https://blog.hildenco.com)
 
@@ -24,8 +24,8 @@ just for fun(c) 😉 and post them here and [on my blog](https://blog.hildenco.c
 I'm currently exploring:
 * **Go stuff**: Nats, Revel, Echo, Buffalo, Nats, ...
 * **Mobile apps**: React Native and Flutter
-* **Cloud stuff**: Firebase, GCP, Azure & Cloud CMSs
-* **Architectural stuff**: design patterns and anything related to cloud architecture
+* **Cloud stuff**: Apache Kafka, Firebase, GCP, Azure & Microservices
+* **Architectural stuff**: security, design patterns and anything related to cloud architecture
 * **Headless CMSs/PIMs**: Contentful, Contentstack, Dotcms & Censhare
 * and lots of other random stuff..
 
@@ -38,6 +38,7 @@ Vim and [i3](https://blog.hildenco.com/2019/08/how-i-fell-in-love-with-i3.html) 
 * [HildenCo | Blog](https://blog.hildenco.com): Blog about development, cloud and open-source software
 * [Linux4Us](https://www.linux4us.com): News, tutorials and tips about Linux (under development)
 * [Vim4Us](https://www.vim4us.com): Tips in tricks to learn and master Vim (under development)
+* [Golang4Us](https://www.golang4us.com): Tips in tricks to learn the Go programming Language (under development)
 
 And more to come 😊
 
@@ -86,8 +87,12 @@ Please check some of my most popular blog posts.
 * [20 tips to manage Linux VMs on Azure](https://blog.hildenco.com/2020/07/20-tips-to-manage-linux-vms-on-azure.html)
 
 
-## ⚡ Fun fact...
-I'm an _Arctic Code Vault Contributor_ (whatever that might even mean 😁) and semi-retired bass-player.
+## ⚡ About me...
+* _Arctic Code Vault Contributor_ (whatever that might even mean 😁) 
+* In 🧡 with the [Go Programming Language](https://golang.org/) 
+* Agile practitioner
+* Open-source enthusiast. Learn [why I use Fedora](https://blog.hildenco.com/2018/11/thank-you-fedora.html) and [i3](https://blog.hildenco.com/2019/08/how-i-fell-in-love-with-i3.html)
+* Semi-retired bass-player
 
 ## 📫 And finally...
 Reach out to me on [Twitter](https://twitter.com/brunohilden) and/or [LinkedIn](https://www.linkedin.com/in/brunohildenbrand/) 😊
