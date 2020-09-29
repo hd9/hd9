@@ -34,7 +34,7 @@ I love open source software! That passion started 20 yrs ago when I tried [Slack
 Today I'm a long-time [Fedora](https://blog.hildenco.com/2018/11/thank-you-fedora.html),
 Vim and [i3](https://blog.hildenco.com/2019/08/how-i-fell-in-love-with-i3.html) user.
 
-### Open-source projects
+### Open-source Blogs
 * [HildenCo | Blog](https://blog.hildenco.com): Blog about development, cloud and open-source software
 * [Linux4Us](https://www.linux4us.com): News, tutorials and tips about Linux (under development)
 * [Vim4Us](https://www.vim4us.com): Tips in tricks to learn and master Vim (under development)
@@ -46,7 +46,7 @@ And more to come 😊
 * [gotrans](https://github.com/hd9/gotrans): A multiplatform tool written in Go to translate text in the terminal using Azure Azure Translation Services
 
 ### Open-source projects
-Some of my most popular open-source tools were created to explain tech stuff [in my blog](https://blog.hildenco.com). They are:
+Some of my most popular open-source tools were created to explain tech stuff [in my blog](https://blog.hildenco.com) are:
 * [aspnet-microservices](https://github.com/hd9/aspnet-microservices): a sample microservice architecture using .NET Core, Docker, Azure and Kubernetes.
 * [aspnet-distributed-caching](https://github.com/hd9/aspnet-distributed-caching): sample repo to demo an ASP.NET Core 3.1 website distributed caching with Docker, MongoDB, Redis using Docker Compose.
 * [aspnet-docker](https://github.com/hd9/aspnet-docker): simple/sample demo of ASP.NET Core and Docker using .NET Core 3.1 LTS
@@ -58,6 +58,7 @@ Some of my most popular open-source tools were created to explain tech stuff [in
 * [aspnet-async-communication](https://github.com/hd9/aspnet-async-communication): Async resquest/response exchange between two ASP.NET Core websites via RabbitMQ queues using MassTransit, Docker, Docker Compose and VueJS 
 * [masstransit-rabbitmq](https://github.com/hd9/masstransit-rabbitmq): Modern MassTransit, RabbitMQ, .NET Core 3.1 implementation 
 
+
 ### Open-source hacks
 There are some cool hacks in these repos:
 * [powershell](https://github.com/hd9/powershell): Powershell Scriplets 
@@ -66,7 +67,7 @@ There are some cool hacks in these repos:
 ## 💬 Popular blog posts
 Please check some of my most popular blog posts.
 
-**.NET/Azure**:
+**.NET/ASP.NET/Azure**:
 * [Adding Application Insights to a ASP.NET Core website](https://blog.hildenco.com/2020/03/adding-application-insights-telemetry.html)
 * [Creating ASP.NET Core websites with Docker](https://blog.hildenco.com/2020/10/how-to-create-aspnet-core-website-with.html)
 * [Accessing Entity Framework context on the background on .NET Core](https://blog.hildenco.com/2018/12/accessing-entity-framework-context-on.html)
@@ -75,9 +76,14 @@ Please check some of my most popular blog posts.
 * [MassTransit, a real alternative to NServiceBus?](https://blog.hildenco.com/2018/08/masstransit-real-alternative-to.html)
 * [Configuration in .NET Core console applications](https://blog.hildenco.com/2020/05/configuration-in-net-core-console.html)
 * [Send emails from ASP.NET Core websites using SendGrid and Azure](https://blog.hildenco.com/2020/07/send-emails-from-aspnet-core-websites.html)
+
+**Reviews**:
 * [An in depth review of the RavenDB Cloud](https://blog.hildenco.com/2019/12/an-in-depth-review-of-ravendb-cloud.html)
+
+**GitHub**:
 * [Hosting NuGet packages on GitHub](https://blog.hildenco.com/2020/07/hosting-nuget-packages-on-github.html)
 * [Hosting Docker images on GitHub](https://blog.hildenco.com/2020/09/hosting-docker-images-on-github.html)
+* [Interview questions for QA analysts](https://blog.hildenco.com/2017/10/if-i-were-hiring-qa-analyst.html)
 
 **Linux and open-source**:
 * [How I fell in love with i3](https://blog.hildenco.com/2019/08/how-i-fell-in-love-with-i3.html)
@@ -86,15 +92,27 @@ Please check some of my most popular blog posts.
 * [Why use CentOS ](https://blog.hildenco.com/2020/06/why-use-centos.html)
 * [20 tips to manage Linux VMs on Azure](https://blog.hildenco.com/2020/07/20-tips-to-manage-linux-vms-on-azure.html)
 
+**Books**:
+* [Hello, Startup - A book for developers building their startups](https://blog.hildenco.com/2018/08/hello-startup-book-for-developers.html)
+* [Stealing the Network](https://blog.hildenco.com/2017/08/stealing-network.html)
+
+**Security**:
+* [How and why use stronger passwords](https://blog.hildenco.com/2017/11/security-tips-using-stronger-passwords.html)
+* [Security and Ethics](https://blog.hildenco.com/2017/09/security-and-ethics.html)
+* [Security Boundaries](https://blog.hildenco.com/2017/11/security-boundaries.html)
+* [Web Development best practices: 9 tips for stronger passwords](https://blog.hildenco.com/2018/01/security-tips-for-your-app-case-for.html)
+* [Integrated security vulnerability alerts on GitHub - Why it matters](https://blog.hildenco.com/2018/10/integrated-security-vulnerability.html)
+* [Security is only as strong as your weakest node](https://blog.hildenco.com/2017/09/security-is-only-as-strong-as-weakest.html)
+* [Security and development: how much is being done?](https://blog.hildenco.com/2017/08/security-is-important.html)
 
 ## ⚡ About me...
-* _Arctic Code Vault Contributor_ (whatever that might even mean 😁) 
-* In 🧡 with the [Go Programming Language](https://golang.org/) 
-* Agile practitioner
 * Open-source enthusiast. Learn [why I use Fedora](https://blog.hildenco.com/2018/11/thank-you-fedora.html) and [i3](https://blog.hildenco.com/2019/08/how-i-fell-in-love-with-i3.html)
-* Semi-retired bass-player
+* In 🧡 with the [Go Programming Language](https://golang.org/) 
+* _Arctic Code Vault Contributor_ (whatever that might even mean 😁) 
+* Scrum master and agile practitioner
+* Semi-retired bass-player 🎸
 
-## 📫 And finally...
+## 📫 Reaching out...
 Reach out to me on [Twitter](https://twitter.com/brunohilden) and/or [LinkedIn](https://www.linkedin.com/in/brunohildenbrand/) 😊
 
 <!--
