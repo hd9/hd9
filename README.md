@@ -2,14 +2,14 @@
 _Sr Software Engineer, tech lead, solutions architect, and open source enthusiast._
 
 ## 👋 Hi there! Thanks for visiting this page 
-I'm a long-time software engineer living in Canada and love sharing tips about development, cloud,   
+I'm a long-time software engineer who love sharing tips about development, cloud,   
 best practices, security, design patterns and software architecture primarily in .NET and Go.
 
 Check my blog at: [blog.hildenco.com](https://blog.hildenco.com)
 
 ## About Me
 ### 🔭 I currently work...
-Developing cloud apps using .NET/.NET Core, Go, Azure, Docker, Kubernetes and lots of different databases.   
+Developing cloud apps using .NET/.NET Core, [Go](https://www.golang4us.com), Azure, Docker, Kubernetes and lots of different databases.   
 Oh! And sometimes I also do some front-end development using [VueJS](https://vuejs.org) and [ReactJS](https://reactjs.org).
 
 ### ⚡ My main interests are...
@@ -17,7 +17,7 @@ Open source software in general, including (but not limited to) Linux, VIM, Bash
 Kubernetes, GraphQL, PostgreSQL, MongoDB, Redis, software development, software architecture, cloud, databases, etc...
 
 ### 🔭 I’m currently working on...
-Outside of my day job, I usually build cloud apps using Go, GraphQL, Docker, Kubernetes and PostgreSQL/sqlite    
+Outside of my day job, I usually build cloud apps using [Go](https://www.golang4us.com), GraphQL, Docker, Kubernetes and PostgreSQL/sqlite    
 just for fun(c) 😉 and post them here and [on my blog](https://blog.hildenco.com).
 
 ### 🌱 I’m exploring...
@@ -32,7 +32,7 @@ I'm currently exploring:
 # Open Source
 I love open source software! That passion started 20 yrs ago when I tried [Slackware Linux](http://www.slackware.com/).   
 Today I'm a long-time [Fedora](https://blog.hildenco.com/2018/11/thank-you-fedora.html),
-Vim and [i3](https://blog.hildenco.com/2019/08/how-i-fell-in-love-with-i3.html) user.
+[Vim](https://www.vim4us.com) and [i3](https://blog.hildenco.com/2019/08/how-i-fell-in-love-with-i3.html) user.
 
 ### Open-source Blogs
 * [HildenCo | Blog](https://blog.hildenco.com): Blog about development, cloud and open-source software
@@ -68,6 +68,8 @@ There are some cool hacks in these repos:
 Please check some of my most popular blog posts.
 
 **.NET/ASP.NET/Azure**:
+* [Distributed caching in ASP.NET Core using Redis, MongoDB and Docker](https://blog.hildenco.com/2020/12/distributed-caching-in-aspnet-core.html)
+* [Async Request/Response with MassTransit, RabbitMQ, Docker and .NET core](https://blog.hildenco.com/2020/11/async-requestresponse-with-masstransit.html)
 * [Adding Application Insights to a ASP.NET Core website](https://blog.hildenco.com/2020/03/adding-application-insights-telemetry.html)
 * [Creating ASP.NET Core websites with Docker](https://blog.hildenco.com/2020/10/how-to-create-aspnet-core-website-with.html)
 * [Accessing Entity Framework context on the background on .NET Core](https://blog.hildenco.com/2018/12/accessing-entity-framework-context-on.html)
