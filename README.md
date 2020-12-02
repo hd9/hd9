@@ -2,14 +2,14 @@
 _Sr Software Engineer, tech lead, solutions architect, and open source enthusiast._
 
 ## 👋 Hi there! Thanks for visiting this page 
-I'm a long-time software engineer who love sharing tips about development, cloud,   
-best practices, security, design patterns and software architecture primarily in .NET and Go.
+I'm a long-time software engineer who love sharing tips about development, cloud, [Linux](https://www.linux4us.com), [Vim](https://www.vim4us.com),   
+best practices, security, design patterns and software architecture primarily in .NET and [Go](https://www.golang4us.com).
 
 Check my blog at: [blog.hildenco.com](https://blog.hildenco.com)
 
 ## About Me
 ### 🔭 I currently work...
-Developing cloud apps using .NET/.NET Core, [Go](https://www.golang4us.com), Azure, Docker, Kubernetes and lots of different databases.   
+Developing cloud apps using .NET/.NET Core, Go, Azure, Docker, Kubernetes and lots of different databases.   
 Oh! And sometimes I also do some front-end development using [VueJS](https://vuejs.org) and [ReactJS](https://reactjs.org).
 
 ### ⚡ My main interests are...
@@ -17,7 +17,7 @@ Open source software in general, including (but not limited to) Linux, VIM, Bash
 Kubernetes, GraphQL, PostgreSQL, MongoDB, Redis, software development, software architecture, cloud, databases, etc...
 
 ### 🔭 I’m currently working on...
-Outside of my day job, I usually build cloud apps using [Go](https://www.golang4us.com), GraphQL, Docker, Kubernetes and PostgreSQL/sqlite    
+Outside of my day job, I usually build cloud apps using Go, GraphQL, Docker, Kubernetes and PostgreSQL/sqlite    
 just for fun(c) 😉 and post them here and [on my blog](https://blog.hildenco.com).
 
 ### 🌱 I’m exploring...
