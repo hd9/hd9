@@ -1,51 +1,27 @@
 # Bruno Hildenbrand
-_Sr Software Engineer, tech lead, solutions architect, and open source enthusiast._
+Solutions architect and open source enthusiast.
 
 ## 👋 Hi there! Thanks for visiting this page 
-I'm a long-time software engineer who love sharing tips about development, cloud, [Linux](https://www.linux4us.com), [Vim](https://www.vim4us.com),   
-best practices, security, design patterns and software architecture primarily in .NET and [Go](https://www.golang4us.com).
+Technology advocate who loves everything on cloud, IoT, Kubernetes, security, AI, [Linux](https://www.linux4us.com), [Vim](https://www.vim4us.com),   
+security and software architecture.
 
 Check my blog at: [blog.hildenco.com](https://blog.hildenco.com)
 
 ## About Me
-### 🔭 I currently work...
-Developing cloud apps using .NET/.NET Core, Go, Azure, Docker, Kubernetes and lots of different databases.   
-Oh! And sometimes I also do some front-end development using [VueJS](https://vuejs.org) and [ReactJS](https://reactjs.org).
+* High-performing Solutions Architect leading teams building cloud native apps using a wide range of technologies.
+* Technology passionate, avid reader and open-source enthusiast
+* _Arctic Code Vault Contributor_ (whatever that might even mean 😁) 
+* Officially retired bass-player 🎸
+* Outside of my day job, I write a little about technology [on my blog](https://blog.hildenco.com).
 
-### ⚡ My main interests are...
-Open source software in general, including (but not limited to) Linux, VIM, Bash, Fedora, Go, Azure, Docker,    
-Kubernetes, GraphQL, PostgreSQL, MongoDB, Redis, software development, software architecture, cloud, databases, etc...
 
-### 🔭 I’m currently working on...
-Outside of my day job, I usually build cloud apps using Go, GraphQL, Docker, Kubernetes and PostgreSQL/sqlite    
-just for fun(c) 😉 and post them here and [on my blog](https://blog.hildenco.com).
-
-### 🌱 I’m exploring...
-I'm currently exploring:
-* **Go stuff**: Nats, Revel, Echo, Buffalo, Nats, ...
-* **Mobile apps**: React Native and Flutter
-* **Cloud stuff**: Apache Kafka, Firebase, GCP, Azure & Microservices
-* **Architectural stuff**: security, design patterns and anything related to cloud architecture
-* **Headless CMSs/PIMs**: Contentful, Contentstack, Dotcms & Censhare
-* and lots of other random stuff..
-
-# Open Source
-I love open source software! That passion started 20 yrs ago when I tried [Slackware Linux](http://www.slackware.com/).   
-Today I'm a long-time [Fedora](https://blog.hildenco.com/2018/11/thank-you-fedora.html),
-[Vim](https://www.vim4us.com) and [i3](https://blog.hildenco.com/2019/08/how-i-fell-in-love-with-i3.html) user.
-
-### Open-source Blogs
+## My Blogs
 * [HildenCo | Blog](https://blog.hildenco.com): Blog about development, cloud and open-source software
-* [Linux4Us](https://www.linux4us.com): News, tutorials and tips about Linux (under development)
+* [Linux4Us](https://www.linux4us.com): Talk Linux and write tutorials and tips about Linux (under development)
 * [Vim4Us](https://www.vim4us.com): Tips in tricks to learn and master Vim (under development)
 * [Golang4Us](https://www.golang4us.com): Tips in tricks to learn the Go programming Language (under development)
 
-And more to come 😊
-
-### Open-source tools
-* [gotrans](https://github.com/hd9/gotrans): A multiplatform tool written in Go to translate text in the terminal using Azure Azure Translation Services
-
-### Open-source projects
+## My open-source projects
 Some of my most popular open-source tools were created to explain tech stuff [in my blog](https://blog.hildenco.com) are:
 * [aspnet-microservices](https://github.com/hd9/aspnet-microservices): a sample microservice architecture using .NET Core, Docker, Azure and Kubernetes.
 * [aspnet-distributed-caching](https://github.com/hd9/aspnet-distributed-caching): sample repo to demo an ASP.NET Core 3.1 website distributed caching with Docker, MongoDB, Redis using Docker Compose.
@@ -57,12 +33,7 @@ Some of my most popular open-source tools were created to explain tech stuff [in
 * [aspnet-github-actions](https://github.com/hd9/aspnet-github-actions): Project to demo building ASP.NET images using GitHub actions 
 * [aspnet-async-communication](https://github.com/hd9/aspnet-async-communication): Async resquest/response exchange between two ASP.NET Core websites via RabbitMQ queues using MassTransit, Docker, Docker Compose and VueJS 
 * [masstransit-rabbitmq](https://github.com/hd9/masstransit-rabbitmq): Modern MassTransit, RabbitMQ, .NET Core 3.1 implementation 
-
-
-### Open-source hacks
-There are some cool hacks in these repos:
-* [powershell](https://github.com/hd9/powershell): Powershell Scriplets 
-* [code](https://github.com/hd9/code): Random code 
+* [gotrans](https://github.com/hd9/gotrans): A multiplatform tool written in Go to translate text in the terminal using Azure Azure Translation Services
 
 ## 💬 Popular blog posts
 Please check some of my most popular blog posts.
@@ -83,8 +54,8 @@ Please check some of my most popular blog posts.
 * [Configuration in .NET Core console applications](https://blog.hildenco.com/2020/05/configuration-in-net-core-console.html)
 
 **Linux and open-source**:
-* [How I fell in love with i3](https://blog.hildenco.com/2019/08/how-i-fell-in-love-with-i3.html)
 * [Why I use Fedora](https://blog.hildenco.com/2018/11/thank-you-fedora.html)
+* [How I fell in love with i3](https://blog.hildenco.com/2019/08/how-i-fell-in-love-with-i3.html)
 * [How to create a Ubuntu Desktop on Azure](https://blog.hildenco.com/2019/07/creating-ubuntu-desktop-instance-on.html)
 * [Why use CentOS ](https://blog.hildenco.com/2020/06/why-use-centos.html)
 * [20 tips to manage Linux VMs on Azure](https://blog.hildenco.com/2020/07/20-tips-to-manage-linux-vms-on-azure.html)
@@ -114,27 +85,6 @@ Please check some of my most popular blog posts.
 * [Security is only as strong as your weakest node](https://blog.hildenco.com/2017/09/security-is-only-as-strong-as-weakest.html)
 * [Security and development: how much is being done?](https://blog.hildenco.com/2017/08/security-is-important.html)
 
-## ⚡ About me...
-* Open-source enthusiast. Learn [why I use Fedora](https://blog.hildenco.com/2018/11/thank-you-fedora.html) and [i3](https://blog.hildenco.com/2019/08/how-i-fell-in-love-with-i3.html)
-* In 🧡 with the [Go Programming Language](https://golang.org/) 
-* _Arctic Code Vault Contributor_ (whatever that might even mean 😁) 
-* Scrum master and agile practitioner
-* Semi-retired bass-player 🎸
-
 ## 📫 Reaching out...
 Reach out to me on [Twitter](https://twitter.com/brunohilden) and/or [LinkedIn](https://www.linkedin.com/in/brunohildenbrand/) 😊
 
-<!--
-**hd9/hd9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
